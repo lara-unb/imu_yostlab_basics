@@ -232,7 +232,7 @@ Por padrão, a função só possui os parâmetros \*disableCompass\*, \*gyroAuto
 
 
 
-\### 5\\. Altere os parâmetros do streaming
+### 5\\. Altere os parâmetros do streaming
 
 
 
@@ -348,5 +348,5 @@ Antes de executar o código, caso esteja no Linux, rode o seguinte comando para 
 
 Quando o código estiver em execução, antes de apertar Enter para iniciar a configuração, deixe o IMU virado para cima e em sua direção em uma superfície plana e reta para que ele faça a calibração e a tara corretamente.
 
-
+\# [Documentação]()
 
