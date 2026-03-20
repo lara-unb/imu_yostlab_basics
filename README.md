@@ -39,13 +39,18 @@ git clone \<url\>
 
 
 Entre na pasta do repositório: 
-cd imu\_yostlab\_basics 
-Crie o ambiente virtual *venv:* 
-python3 \-m venv .venv 
-E ative com o comando: 
+```python
+cd imu\_yostlab\_basics
+```
+Crie o ambiente virtual *venv:*
+```python
+python3 \-m venv .venv
+```
+E ative com o comando:
+```python
 source .venv/bin/activate \# Linux ou 
 .venv\\Scripts\\activate.bat \# Windows
-
+```
 
 3. ### Instalar pacotes
 
