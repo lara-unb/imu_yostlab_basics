@@ -159,7 +159,7 @@ current_accel = None
 ```
 
 
-No parâmetro *type\_of\_data*, selecione qual tipo de informação você quer extrair, conforme a lista abaixo: 
+No parâmetro *type\_of\_data*, selecione qual tipo de informação você quer extrair, conforme a lista abaixo: \ 
 &emsp;0(0x00) \- Quaternion \
 &emsp;1(0x01) \- Ângulo de Euler \
 &emsp;2(0x02) \- Matriz de rotação \
