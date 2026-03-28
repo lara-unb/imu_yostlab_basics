@@ -160,13 +160,13 @@ current_accel = None
 
 
 No parâmetro *type\_of\_data*, selecione qual tipo de informação você quer extrair, conforme a lista abaixo: 
-&emsp;0(0x00) \- Quaternion 
-&emsp;1(0x01) \- Ângulo de Euler 
-&emsp;2(0x02) \- Matriz de rotação 
-&emsp;38(0x26) \- Giroscópio 
-&emsp;39(0x27) \- Acelerômetro 
-&emsp;40(0x28) \- Magnetômetro 
-&emsp;250(0xfa) \- Estado do botão 
+&emsp;0(0x00) \- Quaternion \
+&emsp;1(0x01) \- Ângulo de Euler \
+&emsp;2(0x02) \- Matriz de rotação \
+&emsp;38(0x26) \- Giroscópio \
+&emsp;39(0x27) \- Acelerômetro \
+&emsp;40(0x28) \- Magnetômetro \
+&emsp;250(0xfa) \- Estado do botão \
 Lembre-se de que você deve ter configurado no passo 4 para mostrar o tipo de informação desejada, caso contrário, não será possível realizar a extração.
 
 
