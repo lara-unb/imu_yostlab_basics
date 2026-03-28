@@ -129,7 +129,7 @@ Por padrão, a função só possui os parâmetros *disableCompass*, *gyroAutoCal
  * Obs: a frequência máxima depende do *filterMode* configurado: 
    * Sem filtro de orientação (0): até 1350 Hz 
    * Filtro de Kalman (1): Até 250 Hz 
-   * Q-COMP e Q-GRAD (2 e 3): até 350 Hz
+   * Q-COMP e Q-GRAD (2 e 3): até 850 Hz
 
 
 ### 6\. Receber e extrair os dados da IMU.
